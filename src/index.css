@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&family=Playfair+Display:wght@900&display=swap');
+
+
+:root {
+  font-family: 'Playfar Display', sans-serif;
+  line-height: 1.5;
+  font-weight: 900;
+  color-scheme: light dark;
+  color: #fff;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
