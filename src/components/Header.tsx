@@ -5,8 +5,7 @@ import { Icons } from './Icons'
 import styled from "styled-components"
 
 const Container = styled.div`
-    height: 100vh;
-    overflow: hidden;
+    height: 80vh;
     text-align: center;
     align-items: center;
     padding: 50px;
